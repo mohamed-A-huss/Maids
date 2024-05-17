@@ -1,6 +1,8 @@
 # Maids
  Devices Price Classification System (AI System)
- 
+MaidaProject.ipynb :
+The main machine-learning notebook. 
+
 Database Setup:
 
 models.py defines the Device model with fields.
